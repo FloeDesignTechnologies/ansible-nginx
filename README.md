@@ -1,5 +1,5 @@
-nginx
-========
+ansible-nginx
+=============
 
 Install (but don't configure) nginx on Debian based system.
 
